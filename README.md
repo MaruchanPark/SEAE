@@ -15,8 +15,7 @@ Please download the [VCTK dataset](https://drive.google.com/file/d/1NBIOCk1ouXqi
 ./train.sh
 ```
 **L1 loss**
-![L1](loss/loss.png)
-<img src="loss/loss.png" width="600">
+<img src="loss/loss.png" width="650">
 ### Test
 
 ```
