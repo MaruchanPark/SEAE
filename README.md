@@ -1,6 +1,6 @@
-## Speech Enhancement Auto-Encoder
+# Speech Enhancement Auto-Encoder
 
-### Results:
+## Results:
 
 ### Dependencies:
 
