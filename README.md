@@ -2,12 +2,12 @@
 
 ## Results:
 
-### Dependencies:
+## Dependencies:
 
-### Data:
+## Data:
 
-### Usage:
+## Usage:
 
-#### Train
+### Train
 
-#### Test
+### Test
