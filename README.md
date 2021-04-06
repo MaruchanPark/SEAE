@@ -10,11 +10,11 @@ Please download the [VCTK dataset](https://drive.google.com/file/d/1NBIOCk1ouXqi
 
 ### Train
 run
-'''
+```
 train.sh
-'''
+```
 ### Test
 run
-'''
+```
 inference.sh
-'''
+```
