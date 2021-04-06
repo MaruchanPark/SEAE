@@ -3,7 +3,7 @@
 ## Results:
 
 ## Dependencies:
-*Tensorflow 1.14
+* Tensorflow 1.14
 
 ## Data:
 Please download the [VCTK dataset](https://drive.google.com/file/d/1NBIOCk1ouXqi_cY-XxH9_cDTftVYXYAR/view?usp=sharing)
