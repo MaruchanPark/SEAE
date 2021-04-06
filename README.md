@@ -16,6 +16,7 @@ Please download the [VCTK dataset](https://drive.google.com/file/d/1NBIOCk1ouXqi
 ```
 **L1 loss**
 ![L1](assets/loss.png = 250x250)
+<img src = "assets/loss.png" width="250">
 ### Test
 
 ```
