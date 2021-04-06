@@ -14,6 +14,8 @@ Please download the [VCTK dataset](https://drive.google.com/file/d/1NBIOCk1ouXqi
 ```
 ./train.sh
 ```
+**L1 loss
+(assets/loss.txt)
 ### Test
 
 ```
