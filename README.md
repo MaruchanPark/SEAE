@@ -2,7 +2,8 @@
 
 ## Network Architecture:
 
-The auto-encoder part borrowed from [SEGAN](https://arxiv.org/pdf/1703.09452.pdf)'s generator. 
+The auto-encoder part borrowed from [SEGAN](https://arxiv.org/pdf/1703.09452.pdf)'s generator.
+
 <img src="assets/segan_g.png" width="300">
 
 
