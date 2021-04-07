@@ -16,6 +16,8 @@ Measurement implementation is included in Speech Enhancement: Theory and Practic
 ## Data:
 * Please download the [VCTK dataset](https://drive.google.com/file/d/1NBIOCk1ouXqi_cY-XxH9_cDTftVYXYAR/view?usp=sharing)
 
+* Unzip and move the directories into ```data```
+
 * Set the data root as ```data/clean_trainset_wav_16k, noisy_trainset_wav_16k, ... , noisy_testset_wav_16k```
 
 
