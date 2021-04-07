@@ -9,7 +9,7 @@
 |                | Mean Accuracy | Mean IoU | aaaa |
 |----------------|---------------|----------|------|
 | Noisy          | 58.1%         | 47.90%   |55.0% |
-| SEAE           |               |          |      |
+|  SEAE          |               |          |      |
 
 |       | Pixel Accuracy | Mean Accuracy | Mean IoU |
 |       | -------------- |:-------------:| --------:|
