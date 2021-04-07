@@ -20,8 +20,9 @@ Measurement implementation is included in Speech Enhancement: Theory and Practic
 
 * Run ```python tfrecords.py```
 
-*For train and test, 16bit signed integer, 16kHz sample rate format wav files are supported.
+Format : 16kHz sample rate, 16bit signed integer
 
+*For train and test, 16bit signed integer, 16kHz sample rate format wav format is supported.
 
 ## Usage:
 
