@@ -1,6 +1,9 @@
 # Speech Enhancement Auto-Encoder
 
-## Network Structure:
+## Network Architecture:
+
+The auto-encoder part borrowed from [SEGAN's](https://arxiv.org/pdf/1703.09452.pdf) generator. 
+
 
 
 ## Results:
