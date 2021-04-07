@@ -6,8 +6,7 @@
 | Noisy          | 1.97          | 1.68     |
 |  SEAE          | 2.2           | 7.6      |
 
-Measurement implementation is included in Speech Enhancement: Theory and Practice. [Publisher website](https://www.crcpress.com/downloads/K14513/
-K14513_CD_Files.zip)
+Measurement implementation is included in Speech Enhancement: Theory and Practice. [Publisher website](https://www.crcpress.com/downloads/K14513/K14513_CD_Files.zip)
 
 
 
