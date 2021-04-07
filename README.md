@@ -1,15 +1,10 @@
 # Speech Enhancement Auto-Encoder
 
 ## Results:
-
-| Pixel Accuracy | Mean Accuracy | Mean IoU |
-| -------------- |:-------------:| --------:|
-| 85.8%          | 58.1%         | 47.90%   |
-
 |                | PESQ          | SSNR     |
 |----------------|---------------|----------|
-| Noisy          | 1.97          | 1.68     |
 |  SEAE          | 2.2           | 7.6      |
+| Noisy          | 1.97          | 1.68     |
 
 
 ## Dependencies:
