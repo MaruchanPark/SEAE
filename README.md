@@ -14,9 +14,9 @@ Measurement implementation is included in Speech Enhancement: Theory and Practic
 * Tensorflow 1.14
 
 ## Data:
-Please download the [VCTK dataset](https://drive.google.com/file/d/1NBIOCk1ouXqi_cY-XxH9_cDTftVYXYAR/view?usp=sharing)
+* Please download the [VCTK dataset](https://drive.google.com/file/d/1NBIOCk1ouXqi_cY-XxH9_cDTftVYXYAR/view?usp=sharing)
 
-Set the data root as ```data/clean_trainset_wav_16k, noisy_trainset_wav_16k, ... , noisy_testset_wav_16k```
+* Set the data root as ```data/clean_trainset_wav_16k, noisy_trainset_wav_16k, ... , noisy_testset_wav_16k```
 
 
 *For train and test, 16bit signed integer, 16kHz sample rate format wav files are supported.
