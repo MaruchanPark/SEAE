@@ -33,7 +33,7 @@ Format : 16kHz sample rate, 16bit signed integer
 
 **L1 loss**
 
-<img src="loss/loss.png" width="650">
+<img src="assets/Loss.png" width="650">
 
 Training results (trained model, log) are saved in ```results/```.
 
