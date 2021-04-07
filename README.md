@@ -14,14 +14,14 @@ Measurement implementation is included in Speech Enhancement: Theory and Practic
 * Tensorflow 1.14
 
 ## Data:
-* Please download the [VCTK dataset](https://drive.google.com/file/d/1NBIOCk1ouXqi_cY-XxH9_cDTftVYXYAR/view?usp=sharing).
+* Please download the [Dataset (Valentini et al.2016)](https://drive.google.com/file/d/1NBIOCk1ouXqi_cY-XxH9_cDTftVYXYAR/view?usp=sharing).
 
 * Unzip and move the directories into ```data```.
 
 * Run ```python tfrecords.py```
 
 Format : 16kHz sample rate, 16bit signed integer
-
+*Original datasets 
 
 ## Usage:
 
