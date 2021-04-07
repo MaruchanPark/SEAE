@@ -24,7 +24,6 @@ Measurement implementation is included in Speech Enhancement: Theory and Practic
 * Run ```python tfrecords.py```
 
 Format : 16kHz sample rate, 16bit signed integer
-*Original datasets 
 
 ## Usage:
 
