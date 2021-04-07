@@ -1,5 +1,8 @@
 # Speech Enhancement Auto-Encoder
 
+## Network Structure:
+
+
 ## Results:
 |                | PESQ          | SSNR     |
 |---------------:|--------------:|---------:|
