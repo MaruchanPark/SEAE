@@ -4,6 +4,7 @@
 | Pixel Accuracy | Mean Accuracy | Mean IoU | aaaa |
 | -------------- |:-------------:| --------:| ----:|
 | 85.8%          | 58.1%         | 47.90%   |55.0% |
+| 22             |               |          |      |
 
 |       | Pixel Accuracy | Mean Accuracy | Mean IoU |
 |       | -------------- |:-------------:| --------:|
