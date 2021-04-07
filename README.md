@@ -22,7 +22,6 @@ Measurement implementation is included in Speech Enhancement: Theory and Practic
 
 Format : 16kHz sample rate, 16bit signed integer
 
-*For train and test, 16bit signed integer, 16kHz sample rate format wav format is supported.
 
 ## Usage:
 
