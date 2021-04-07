@@ -31,7 +31,6 @@ Format : 16kHz sample rate, 16bit signed integer
 ./train.sh
 ```
 
-**L1 loss**
 
 <img src="assets/Loss.png" width="650">
 
