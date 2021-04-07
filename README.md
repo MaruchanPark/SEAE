@@ -1,6 +1,10 @@
 # Speech Enhancement Auto-Encoder
 
 ## Results:
+| Pixel Accuracy | Mean Accuracy | Mean IoU |
+| -------------- |:-------------:| --------:|
+| 85.8%          | 58.1%         | 47.90%   |
+
 |       | Pixel Accuracy | Mean Accuracy | Mean IoU |
 |       | -------------- |:-------------:| --------:|
 | Noisy |                |               |          |
