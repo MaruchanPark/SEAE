@@ -33,7 +33,7 @@ Format : 16kHz sample rate, 16bit signed integer
 **L1 loss**
 <img src="loss/loss.png" width="650">
 
-Training results(trained model, log) are saved in ```results/```.
+Training results (trained model, log) are saved in ```results/```.
 
 ### Inference
 
@@ -41,4 +41,4 @@ Training results(trained model, log) are saved in ```results/```.
 ./inference.sh
 ```
 
-You can find the results in ```inferences```.
+You can find the enhanced data in ```inferences```.
