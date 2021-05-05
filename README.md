@@ -35,7 +35,7 @@ Format : 16kHz sample rate, 16bit signed integer
 ### Train
 
 ```
-./train.sh
+./train.sh&
 ```
 
 
